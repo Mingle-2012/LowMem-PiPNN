@@ -1,0 +1,9 @@
+/build*/
+/data/
+/datasets/
+/indices/
+__pycache__/
+*.pyc
+*.meta
+*.vec
+*.blocks
